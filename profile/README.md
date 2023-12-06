@@ -4,7 +4,7 @@
 Chitchat은 숏폼 형태의 익명 채팅 서비스입니다.<br>
 다양한 주제로 사람들과 간단한 대화를 할 수 있고, 자신이 직접 주제를 입력하여 대화방을 만들 수도 있습니다.<br>
 지금껏 보지 못한 새로운 방식의 채팅을 통해 색다른 재미를 느껴보세요!
-
+<!--
 <br>
 
 ## 함께하는 팀원들
@@ -27,3 +27,4 @@ Chitchat은 숏폼 형태의 익명 채팅 서비스입니다.<br>
 |<img src="https://avatars.githubusercontent.com/u/102123549?v=4" width="160">|<img src="https://avatars.githubusercontent.com/u/80014442?v=4" width="160">|
 |:-:|:-:|
 |[신준서](https://github.com/qodldks)|[유나은](https://github.com/yunaeun)|
+-->
